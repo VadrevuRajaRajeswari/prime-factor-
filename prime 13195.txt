@@ -1,0 +1,26 @@
+#include<iosream.h>
+using namespace std;
+long long number=13195;
+long newnum;
+public vid main( strings args[])
+{
+    for(long i=2;i<=number;i++)
+    { 
+         if(number%i=0)
+         {  
+             newnum=i;
+             int count=0;
+             for(long j=newnum;j>=1;j++)
+             {
+                 if(new num%j==0)
+                 {
+                   count++;
+                 }
+              }
+              if(count==2)
+              {
+                 cin>>==2;
+               }
+           }
+       }
+}
